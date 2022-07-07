@@ -1,0 +1,10 @@
+﻿生成启动时间为 2022/6/24 12:34:22。
+     1>项目“C:\Users\86183\Desktop\代码\高考出分后心情安抚\高考出分后心情安抚\高考出分后心情安抚.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86183\Desktop\代码\高考出分后心情安抚\Debug\高考出分后心情安抚.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\86183\Desktop\代码\高考出分后心情安抚\Debug\高考出分后心情安抚.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86183\Desktop\代码\高考出分后心情安抚\Debug\高考出分后心情安抚.lib" /MACHINE:X86 "Debug\高考后.obj"
+         高考出分后心情安抚.vcxproj -> C:\Users\86183\Desktop\代码\高考出分后心情安抚\Debug\高考出分后心情安抚.exe
+     1>已完成生成项目“C:\Users\86183\Desktop\代码\高考出分后心情安抚\高考出分后心情安抚\高考出分后心情安抚.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.87
